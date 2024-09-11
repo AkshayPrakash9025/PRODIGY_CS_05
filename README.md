@@ -1,4 +1,5 @@
 Network Packet Analyzer
+
 The Network Packet Analyzer is a Python tool for capturing and analyzing network packets. 
 It provides valuable insights into network traffic by displaying details such as source and destination IP addresses, protocols, and payload data. This tool is intended for educational purposes to aid in understanding network traffic and packet analysis.
 
